@@ -16,4 +16,4 @@ select the image overlay  !!DO NOT PUT THE IMAGE OVERLAY INSIDE THE INPUT FOLDER
 
 select the folder output, and click start.
 
-you can check check the files in the output folder.
+you can check the files in the output folder.
